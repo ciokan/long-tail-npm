@@ -7,7 +7,7 @@ relevant and related to the provided keyword.
 
 ### Where to use this package
 
-This package fits very well inside applications that has anything to do with SEO, writing blogs posts of articles. By
+This package fits very well inside applications that have anything to do with SEO, writing blog posts or articles. By
 using this package a writer can gain insights into what is also popular regarding a given topic/keyword. This way he/she
 is able to address more targeted visitors which are known to convert better since they are not browsing for a wide
 keyword but a rather specific topic.
@@ -28,8 +28,6 @@ To get your API key you need to head over to the project's [API homepage](https:
 which is hosted by mashape, and signup to the freemium plan which includes 5 free requests per day.
 
 ### How to use this package
-
-There is 
 
 ```javascript
 import LongTail, {SOURCES} from 'long-tail';
